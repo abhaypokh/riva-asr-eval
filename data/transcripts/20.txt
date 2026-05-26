@@ -1,0 +1,22 @@
+[CLIENT]: Hi, I'm calling because I want to buy some products. I'm not sure if you sell them retail or only to clients.
+[RECEPTIONIST]: We sell to anyone, you don't need to be a current client. What were you looking for?
+[CLIENT]: My stylist at a different salon recommended Olaplex Number Three and a Moroccanoil treatment. Do you carry both?
+[RECEPTIONIST]: Yes to both. Olaplex Number Three is twenty-eight. Moroccanoil Treatment, the original, comes in two sizes, three point four ounce is forty-six and one point seven five ounce is thirty.
+[CLIENT]: I'll take the Olaplex Three and the larger Moroccanoil. Is the Moroccanoil oil the one in the orange bottle?
+[RECEPTIONIST]: Exactly, the original. Some people prefer the Light version if their hair is very fine. The original is better for thicker or coarser hair.
+[CLIENT]: I have very fine hair, actually.
+[RECEPTIONIST]: Then I'd recommend the Light. Same price. Want me to swap?
+[CLIENT]: Yes please.
+[RECEPTIONIST]: Done. Anything else? We also have a really good lightweight leave-in conditioner from Briogeo, called Don't Despair Repair, that's popular for fine hair.
+[CLIENT]: Maybe next time. Actually, while I'm asking, do you have availability for a new client appointment? I'm thinking about switching salons.
+[RECEPTIONIST]: Of course, we love new clients. What service are you looking for?
+[CLIENT]: A haircut and possibly a consultation about my color. I'm not sure what I want yet.
+[RECEPTIONIST]: I'd recommend booking with our senior stylist Sasha for a cut plus a free color consultation at the end of the appointment. That way she can give you specific recommendations.
+[CLIENT]: That sounds perfect. When is she available?
+[RECEPTIONIST]: Sasha has next Friday at one, or the following Tuesday at ten.
+[CLIENT]: Friday at one.
+[RECEPTIONIST]: Great. New client cut with Sasha is ninety. Plus the consultation is free.
+[CLIENT]: Wonderful. My name is Heather Phillips. Five five five, four four eight, six two zero one.
+[RECEPTIONIST]: Booked, Heather. For the products, do you want to swing by today to pick them up or grab them at your Friday appointment?
+[CLIENT]: I'll grab them Friday. Save me a trip.
+[RECEPTIONIST]: Done. I'll set them aside. We look forward to meeting you.

@@ -1,0 +1,7 @@
+nemo_toolkit[asr]
+openai-whisper
+jiwer
+tqdm
+torch
+boto3
+spacy

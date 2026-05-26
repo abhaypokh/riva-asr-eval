@@ -1,0 +1,21 @@
+[RECEPTIONIST]: Hi there, how can I help you today?
+[CLIENT]: Hi, I'm interested in getting a perm. I haven't had one since I was a teenager and I'm not sure if perms are even still a thing.
+[RECEPTIONIST]: They very much are. Modern perms are a lot gentler than the ones you probably remember. The chemistry is different and the results are much more natural-looking. We have several clients who get them regularly.
+[CLIENT]: That's a relief. I have very straight hair, shoulder length, and I want loose beachy waves rather than tight curls.
+[RECEPTIONIST]: For that look you'd want what's called a body wave or a soft wave perm. Bigger rods, looser pattern. The result is more of a tousled wavy texture than a curly look.
+[CLIENT]: That's exactly what I want. How long does it last?
+[RECEPTIONIST]: Anywhere from three to six months depending on your hair type and how you care for it. Your hair grows out straight at the roots, so you'll see the perm gradually move down.
+[CLIENT]: And the appointment itself, how long?
+[RECEPTIONIST]: A body wave perm takes about two and a half hours. We use a low-pH formula and follow with Olaplex to protect the integrity. You can't wash your hair for forty-eight hours after, which is the hardest part for most people.
+[CLIENT]: I can deal with that. Any reason I shouldn't get one? Like if my hair is colored, is it a problem?
+[RECEPTIONIST]: Good question. If your hair is heavily lifted, like blonde highlights, we're more cautious because the cuticle is already open. Have you done color recently?
+[CLIENT]: I have some lowlights from about four months ago.
+[RECEPTIONIST]: That should be fine, four months gives the hair plenty of time. Our stylist will still do a strand test before committing, just to be safe.
+[CLIENT]: Smart. What does it cost?
+[RECEPTIONIST]: A body wave is one ninety, including the cut at the end and a styling blowout.
+[CLIENT]: Okay. Let's book it. Who does perms here?
+[RECEPTIONIST]: Carla. She's been here twelve years and has a strong technical background. She has openings next Tuesday at ten or Saturday at eleven.
+[CLIENT]: Saturday at eleven please.
+[RECEPTIONIST]: Your name and number?
+[CLIENT]: Lauren Bishop. Five five five, six one zero, two seven four three.
+[RECEPTIONIST]: Booked, Lauren. See you Saturday.

@@ -1,0 +1,22 @@
+[CLIENT]: Hello, I want to ask about hair extensions. I'm thinking about tape-ins.
+[RECEPTIONIST]: Great, tape-ins are very popular. Have you had extensions before?
+[CLIENT]: I had clip-ins for years and I'm tired of putting them in every day. I want something more permanent.
+[RECEPTIONIST]: Tape-ins are a perfect step up from clip-ins. They sit flat against the head, you can wash and style normally, and they last six to eight weeks before they need to be moved up.
+[CLIENT]: How much hair do most people need? My hair is medium thickness, about collarbone length, and I want it to be like mid-back length.
+[RECEPTIONIST]: For that much length and some thickness, you'd probably need two to three packs. Each pack is forty pieces, twenty tabs essentially. Our stylist Maya will do a free consultation to determine the exact amount during your appointment.
+[CLIENT]: What about the hair itself? Is it good quality?
+[RECEPTIONIST]: We use Bellami and Babe brand hair, both are premium grade Remy human hair. You can color it, heat style it, treat it just like your own hair, within reason.
+[CLIENT]: What's the cost roughly?
+[RECEPTIONIST]: Tape-in extensions are an investment. The hair itself runs three hundred to four hundred per pack, plus the application fee, which is one fifty for a full head. So you're looking at somewhere between seven fifty and fifteen hundred depending on amount, color match, and length.
+[CLIENT]: That's a lot.
+[RECEPTIONIST]: It is, but the hair lasts six to nine months if you take care of it. And the move-up appointments are just one fifty each time, the hair is reusable until it needs to be replaced.
+[CLIENT]: Okay that makes more sense. What about care? Can I use any shampoo?
+[RECEPTIONIST]: You'll want to use sulfate-free, alcohol-free products. We sell Davines and Pureology which are both extension-safe. Avoid putting conditioner on the tabs themselves, that breaks down the adhesive.
+[CLIENT]: Got it. And I assume no hot tubs or oils?
+[RECEPTIONIST]: Exactly. Chlorine, sulfates, and oils are the three enemies.
+[CLIENT]: Let me book a consultation. When is Maya available?
+[RECEPTIONIST]: She has Thursday at one or next Monday at ten.
+[CLIENT]: Thursday at one works.
+[RECEPTIONIST]: Name and phone number?
+[CLIENT]: Jasmine Patel. Five five five, four eight one, six six zero two.
+[RECEPTIONIST]: Booked, Jasmine. See you Thursday.

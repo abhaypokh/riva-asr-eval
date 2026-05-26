@@ -1,0 +1,21 @@
+[RECEPTIONIST]: Thanks for calling, this is the front desk, how can I help?
+[CLIENT]: Hi, I want to book a gel manicure and a pedicure for this Friday if you have anything available.
+[RECEPTIONIST]: Let me look. For Friday we have an opening at ten in the morning, twelve thirty, and four in the afternoon.
+[CLIENT]: Twelve thirty would be perfect, I can do that on my lunch break.
+[RECEPTIONIST]: Okay, with a gel mani and a regular pedicure you'll need closer to ninety minutes, can you do an hour and a half?
+[CLIENT]: Oh. I was hoping for less. Can the pedicure be a regular polish so it's faster?
+[RECEPTIONIST]: A regular polish pedicure plus the gel manicure would still take about seventy-five minutes. Honestly the bottleneck is the gel manicure. What if we did dip powder on the hands instead? That's actually a little faster than gel and lasts longer too.
+[CLIENT]: I've never done dip powder. Does it look the same?
+[RECEPTIONIST]: Very similar finish, very glossy. The application is different but the result is comparable. A lot of clients switch and never go back, mostly because dip lasts three to four weeks instead of two.
+[CLIENT]: Okay, let's try the dip. What about colors, do you have a wide selection?
+[RECEPTIONIST]: We carry mostly Kiara Sky and DND for dip, probably two hundred colors between them. For pedicure polish we use OPI and Essie.
+[CLIENT]: Great. Can I request a specific tech?
+[RECEPTIONIST]: Sure, who do you usually see?
+[CLIENT]: I had Linh last time and she was wonderful.
+[RECEPTIONIST]: Let me check Linh's schedule. She has the twelve thirty open Friday actually, so that works out.
+[CLIENT]: Perfect.
+[RECEPTIONIST]: Just so you know, we ask all nail clients to remove any existing gel or dip before coming in. If you have product on now, you'd need to either soak it off at home or come in twenty minutes early for a removal, which is fifteen dollars.
+[CLIENT]: I have regular polish on, so I can just take that off myself.
+[RECEPTIONIST]: Perfect. Can I get your name and a number to text the confirmation?
+[CLIENT]: Rachel Park. Six four six, five five five, two two eight three.
+[RECEPTIONIST]: Booked. See you Friday, Rachel.

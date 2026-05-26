@@ -1,0 +1,18 @@
+[CLIENT]: Hi, I'm calling about my next appointment. I had a partial highlight booked for Saturday but I need to switch to a full highlight instead.
+[RECEPTIONIST]: Sure, let me pull you up. Name?
+[CLIENT]: Daniel Foster.
+[RECEPTIONIST]: Got it, Daniel. I see you with Marco at one on Saturday for partial highlights and a haircut. Switching to a full will change the duration and cost. A full highlight with cut runs about three hours and the price goes from one ninety to two seventy-five. Does that work?
+[CLIENT]: Yeah that's fine.
+[RECEPTIONIST]: Let me check Marco's schedule. Saturday at one is fine for the longer service since he had a buffer after, so we can stay at the same time.
+[CLIENT]: Perfect.
+[RECEPTIONIST]: Any particular reason for the switch? Just so Marco knows.
+[CLIENT]: Yeah, last time he did a partial it didn't blend with my regrowth as much as I'd hoped. I have more grey now than I used to and I want more coverage.
+[RECEPTIONIST]: That makes sense. With more grey coming in, a full highlight will give you better blending. Marco might also suggest pairing it with a gloss or a demi-permanent to soften the grey if you're not into the full coverage option. He'll discuss in the chair.
+[CLIENT]: I'm open to whatever he recommends. He's done my hair for years.
+[RECEPTIONIST]: Great. I'll add a note on the appointment so he knows to discuss the grey coverage options. By the way, while I have you, I noticed you've been using our Color Wow root touch-up spray. We just got the dark blonde shade in stock, I know you've been waiting on it.
+[CLIENT]: Oh nice, can you set me one aside? I'll grab it Saturday.
+[RECEPTIONIST]: Done. It's thirty-six dollars.
+[CLIENT]: Great. One more thing, do I need to do anything different with the longer appointment? Like eat beforehand?
+[RECEPTIONIST]: Honestly yes. Three hours is a long time. I always tell clients to eat a real meal before, bring a snack or a drink, and use the bathroom right when you arrive. Marco will offer you water and coffee throughout.
+[CLIENT]: Good advice. Okay, see you Saturday.
+[RECEPTIONIST]: See you then, Daniel.

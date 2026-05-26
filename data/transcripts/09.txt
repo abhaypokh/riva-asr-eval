@@ -1,0 +1,23 @@
+[CLIENT]: Hi, I'd like to book a microblading appointment. I had it done years ago and it's mostly faded.
+[RECEPTIONIST]: Sure. So you're looking at either a refresh on existing work or essentially a new microblading session, depending on how much remains. Have you had any work done since the original?
+[CLIENT]: No, just the original about three years ago. There are some faint outlines left but most of it is gone.
+[RECEPTIONIST]: Got it. In your case we'd treat it like a full new microblading session, then a touch-up six to eight weeks later, which is standard.
+[CLIENT]: Okay. What does that cost?
+[RECEPTIONIST]: Our microblading is five hundred fifty, which includes both the initial session and the touch-up.
+[CLIENT]: That's about what I paid last time. How long does the appointment take?
+[RECEPTIONIST]: About two and a half hours. We start with a consultation, brow mapping, then numb the area, do the strokes, and finish with aftercare instructions.
+[CLIENT]: And is there much downtime? Last time my brows were really dark for a week or so.
+[RECEPTIONIST]: Yes, that's normal. They'll look darker than expected for five to seven days, then scab and lighten, then around week four they soften into the final result. You can't get them wet for ten days, no sweating, no makeup directly on them.
+[CLIENT]: I remember. I'll plan around that.
+[RECEPTIONIST]: We also offer brow lamination if you ever want a lower-maintenance option in between microblading sessions. That just sets the natural brow hairs in place for about eight weeks.
+[CLIENT]: Maybe in the future. For now I just want the shape back.
+[RECEPTIONIST]: Of course. Our artist is Nadia. She has next week Tuesday at nine in the morning, or Friday at two.
+[CLIENT]: Tuesday at nine works.
+[RECEPTIONIST]: One thing to prepare, no caffeine, no alcohol, and no ibuprofen for twenty-four hours before. Those thin the blood and affect retention.
+[CLIENT]: Good reminder.
+[RECEPTIONIST]: Also, please don't tweeze or wax your brows for two weeks before. Nadia wants to see your natural growth pattern to design the shape.
+[CLIENT]: Okay, I'll leave them alone.
+[RECEPTIONIST]: Name and phone number?
+[CLIENT]: Priya Sharma. Five five five, two two zero, eight eight seven four.
+[RECEPTIONIST]: Booked, Priya. We'll send you a confirmation email with the prep instructions.
+[CLIENT]: Perfect, thank you.

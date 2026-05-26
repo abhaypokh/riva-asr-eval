@@ -1,0 +1,178 @@
+# Services
+haircut
+trim
+blowout
+blow dry
+shampoo
+conditioner
+hair color
+single process
+double process
+highlights
+lowlights
+balayage
+ombre
+foilayage
+babylights
+root touch-up
+toner
+gloss
+glaze
+keratin treatment
+brazilian blowout
+relaxer
+perm
+hair extensions
+tape-ins
+weave
+updo
+styling
+braiding
+manicure
+pedicure
+gel manicure
+acrylics
+dip powder
+nail art
+shellac
+facial
+waxing
+threading
+brow tint
+brow lamination
+lash extensions
+lash lift
+microblading
+makeup
+spray tan
+massage
+
+# Tools and equipment
+shears
+clippers
+trimmer
+blow dryer
+curling iron
+flat iron
+straightener
+hot rollers
+diffuser
+foils
+cape
+neck strip
+
+# Hair care brands
+L'Oréal
+Redken
+Matrix
+Pureology
+Kérastase
+Wella
+Goldwell
+Schwarzkopf
+Paul Mitchell
+Aveda
+Olaplex
+K18
+Davines
+Moroccanoil
+Living Proof
+Bumble and Bumble
+R+Co
+Oribe
+Ouai
+Briogeo
+Joico
+Biolage
+TIGI
+Bed Head
+Sebastian Professional
+Nioxin
+Color Wow
+Amika
+IGK
+Verb
+Eufora
+Surface
+
+# Color brands
+Shades EQ
+Redken Color Gels
+Wella Koleston
+Wella Color Touch
+Igora Royal
+Majirel
+Inoa
+Socolor
+Pravana
+Pulp Riot
+Joico Vero K-Pak
+
+# Tool brands
+Dyson
+GHD
+T3
+BaByliss
+BaBylissPRO
+Conair
+Hot Tools
+Revlon
+CHI
+Sam Villa
+Wahl
+Andis
+Oster
+
+# Nail brands
+OPI
+Essie
+CND
+Shellac
+Gelish
+Sally Hansen
+Orly
+Zoya
+DND
+Kiara Sky
+Young Nails
+
+# Skincare and esthetics brands
+Dermalogica
+SkinCeuticals
+Image Skincare
+PCA Skin
+Eminence
+HydraFacial
+Obagi
+ZO Skin Health
+
+# Salon and chain brands
+Supercuts
+Great Clips
+Sport Clips
+Fantastic Sams
+Hair Cuttery
+Regis Salons
+Drybar
+Floyd's 99 Barbershop
+Ulta
+Ulta Beauty
+Sephora
+Aveda Institute
+Toni & Guy
+Vidal Sassoon
+Bishops Cuts/Color
+Cost Cutters
+Mastercuts
+
+# Booking and salon software
+Vagaro
+Booksy
+Square Appointments
+GlossGenius
+Fresha
+Mindbody
+Boulevard
+Phorest
+Salon Iris
+Rosy

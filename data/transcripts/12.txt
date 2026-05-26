@@ -1,0 +1,22 @@
+[CLIENT]: Hi, I'd like to book a HydraFacial. I keep seeing them on Instagram and I want to try one.
+[RECEPTIONIST]: Of course. The HydraFacial is one of our most popular services. Have you had any facials with us before?
+[CLIENT]: No, this would be my first.
+[RECEPTIONIST]: Great. The HydraFacial is a three-step treatment, it cleanses, extracts, and hydrates the skin all in one session, using a vacuum-like wand. It's good for almost every skin type.
+[CLIENT]: I have combination skin, oily T-zone, but some dry patches on my cheeks.
+[RECEPTIONIST]: That's actually ideal for a HydraFacial. The treatment can be customized with different serums depending on what you want to target. We have boosters for hydration, brightening, anti-aging, and for congested skin. For combination skin most clients add the brightening or the clarifying booster.
+[CLIENT]: What does it cost?
+[RECEPTIONIST]: The base HydraFacial is one seventy-five. Boosters are an additional fifty each.
+[CLIENT]: How about with one booster?
+[RECEPTIONIST]: Two twenty-five total.
+[CLIENT]: Okay. And how long?
+[RECEPTIONIST]: Sixty minutes. You'll see results immediately, dewy hydrated skin, and pores look smaller. There's no downtime, you can wear makeup right after, though we recommend not to for a few hours.
+[CLIENT]: How often should I do it?
+[RECEPTIONIST]: For maintenance, once a month. We have a membership where if you commit to monthly, each one is one forty-five instead of one seventy-five.
+[CLIENT]: I might do that. Let me start with one and see how I like it.
+[RECEPTIONIST]: Smart. Our esthetician is Karen. She's been doing skin for over fifteen years and she uses Dermalogica and Image Skincare for her custom add-ons.
+[CLIENT]: When can I see her?
+[RECEPTIONIST]: She has Wednesday at ten in the morning, Thursday at three, or Saturday at noon.
+[CLIENT]: Wednesday at ten works.
+[RECEPTIONIST]: A few notes. Come in with clean skin, no makeup is ideal but if you have to wear some Karen will cleanse you. Don't use any retinol or strong exfoliants for three days before. And avoid sun exposure twenty-four hours before and after.
+[CLIENT]: Got it. Name? Sorry, I mean, my name is Hannah Riley. Phone is five five five, three nine eight, four four one zero.
+[RECEPTIONIST]: Booked, Hannah. See you Wednesday.

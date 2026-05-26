@@ -1,0 +1,18 @@
+[CLIENT]: Hi, I want to ask about lash extensions. I've never had them before and I'm trying to figure out which kind to get.
+[RECEPTIONIST]: Sure, happy to walk you through it. We do classic, hybrid, and volume lash extensions. The main difference is how many extensions go on each natural lash. Classic is one to one, hybrid is a mix of singles and fans, and volume is multiple thin extensions per lash for a fluffier look.
+[CLIENT]: I think I want something natural-looking for everyday but with a little more drama than my real lashes.
+[RECEPTIONIST]: Then hybrid is probably your sweet spot. It gives that fuller look without being too dramatic. Most first-time clients land there.
+[CLIENT]: How long does the appointment take and what does it cost?
+[RECEPTIONIST]: A full set of hybrid takes about two hours and runs one hundred and seventy-five. After that you'd come back for fills every two to three weeks. Fills run between sixty-five and ninety depending on how much regrowth there is.
+[CLIENT]: Two hours, wow. Do I just lie there the whole time?
+[RECEPTIONIST]: Yes, on a comfortable bed with your eyes closed. A lot of clients fall asleep, honestly. Don't wear eye makeup the day of, and try to avoid caffeine right before, because your eyes can flutter.
+[CLIENT]: Good to know. Are there any aftercare instructions?
+[RECEPTIONIST]: A few. No water on the lashes for twenty-four hours, no oil-based products, no mascara ever, and you'll want to clean them gently every day with a lash cleanser. We sell one at the front desk for eighteen dollars, it's worth it.
+[CLIENT]: Okay. And how do they get removed when I don't want them anymore?
+[RECEPTIONIST]: Never pick at them. Come in for a professional removal, it's thirty-five dollars and takes about twenty minutes. Picking at them damages your natural lashes.
+[CLIENT]: Got it. I'm ready to book. Who do you recommend?
+[RECEPTIONIST]: Our lash artist is Tiffany, she's been doing extensions for nine years. She has Thursday at one in the afternoon or Saturday at nine in the morning.
+[CLIENT]: Saturday morning please.
+[RECEPTIONIST]: Perfect. Name and number?
+[CLIENT]: Olivia Garcia. Five five five, three three nine, four seven one two.
+[RECEPTIONIST]: All set, Olivia. We'll text a reminder. See you Saturday.

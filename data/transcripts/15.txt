@@ -1,0 +1,25 @@
+[RECEPTIONIST]: Good afternoon, thanks for calling.
+[CLIENT]: Hi, I have an event on Saturday and I want to book a spray tan. Do you guys do those?
+[RECEPTIONIST]: We do. Custom airbrush spray tans, by appointment.
+[CLIENT]: Perfect. What time can I get in?
+[RECEPTIONIST]: For a Saturday event, when is the event exactly?
+[CLIENT]: Six in the evening.
+[RECEPTIONIST]: I'd recommend coming in Friday morning or Friday around midday. That gives the tan a full day to develop and any uneven spots to even out before the event.
+[CLIENT]: Okay, Friday works. What times are open?
+[RECEPTIONIST]: I have ten in the morning, eleven thirty, or one in the afternoon Friday.
+[CLIENT]: Eleven thirty.
+[RECEPTIONIST]: Great. Have you had a spray tan before?
+[CLIENT]: A long time ago, in college.
+[RECEPTIONIST]: Okay, let me walk you through the prep. The day before your appointment, exfoliate well, especially elbows, knees, and ankles. Shave a few hours before, not right before. Don't use any lotion, deodorant, makeup, or perfume on the day of the appointment, those create barriers.
+[CLIENT]: Got it. Anything to wear?
+[RECEPTIONIST]: Loose dark clothing. No tight jeans, no bras with thick straps. Strapless sundress or sweatpants and a loose top is ideal. Slip-on shoes, no socks.
+[CLIENT]: Okay.
+[RECEPTIONIST]: After the tan, no showering for eight hours minimum, twelve is better. No sweating, no working out, no swimming. When you do shower, use lukewarm water and no soap on the body for the first time, just rinse off the bronzer.
+[CLIENT]: That sounds restrictive but okay.
+[RECEPTIONIST]: It is for the first day, but the result is worth it. How dark would you like to go?
+[CLIENT]: I'm naturally pretty fair. I want a nice golden glow but not orange or super dark.
+[RECEPTIONIST]: Our esthetician will recommend a medium shade for you, probably a level four out of seven. It gives a really natural golden tan that suits fair skin.
+[CLIENT]: Perfect. What's the cost?
+[RECEPTIONIST]: Seventy-five for a full body custom spray tan.
+[CLIENT]: Sounds great. Name is Brooklyn Lewis. Five five five, six two two, one nine four eight.
+[RECEPTIONIST]: All booked. See you Friday, Brooklyn.

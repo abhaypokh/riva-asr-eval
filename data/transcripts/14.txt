@@ -1,0 +1,18 @@
+[CLIENT]: Hi, I want to ask about Olaplex. I keep seeing it everywhere. Is it worth adding to my color appointment?
+[RECEPTIONIST]: Great question. Olaplex is a bond-builder, it works on a chemical level to repair the disulfide bonds in your hair that get broken during chemical processes like coloring or bleaching. Most of our stylists recommend it for anyone doing highlights, bleaching, or going more than two shades lighter or darker.
+[CLIENT]: What does it actually feel like? Does it change how the appointment goes?
+[RECEPTIONIST]: It's added as Number One into the color mixture itself, then Number Two is applied after the color is rinsed and sits for ten minutes. So your appointment ends up about fifteen minutes longer. The result is your hair feels noticeably stronger and shinier after.
+[CLIENT]: And the cost?
+[RECEPTIONIST]: As an add-on it's thirty-five dollars on top of any color service.
+[CLIENT]: What about the home version? My friend uses Olaplex Number Three.
+[RECEPTIONIST]: Number Three is a take-home treatment. You apply it to damp hair, leave it on for thirty minutes minimum, then shampoo and condition. We recommend using it once a week if you color, more if your hair feels damaged. It's twenty-eight dollars.
+[CLIENT]: Do I need their shampoo and conditioner too or is the treatment enough?
+[RECEPTIONIST]: The treatment is the most important. The shampoo and conditioner, Number Four and Number Five, are nice but not essential. If budget is a concern, just get the Number Three and use a quality sulfate-free shampoo from another line.
+[CLIENT]: Like what?
+[RECEPTIONIST]: We carry Pureology and Davines, both are excellent. Pureology Hydrate is great for dry colored hair, Davines Love is good for thicker hair.
+[CLIENT]: Okay. Add the Olaplex to my next appointment, and I'll buy a Number Three to try at home.
+[RECEPTIONIST]: Done. You have a highlight appointment with Sasha next Saturday at eleven, I've added the Olaplex add-on. I'll have a Number Three at the front desk for you to take home.
+[CLIENT]: Perfect. What's the total going to be?
+[RECEPTIONIST]: Highlights with cut and blowout is two ten, plus thirty-five for Olaplex in-salon, plus twenty-eight for the take-home. Tax brings it to about two ninety with everything.
+[CLIENT]: Sounds good. Thank you.
+[RECEPTIONIST]: My pleasure. See you Saturday.

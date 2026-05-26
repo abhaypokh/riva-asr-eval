@@ -1,0 +1,20 @@
+[RECEPTIONIST]: Thanks for calling, this is the salon, how can I help you?
+[CLIENT]: Hi, I'd like to book a root touch-up and a gloss. My roots are coming in pretty heavily and I want to refresh the color.
+[RECEPTIONIST]: Sure, let me ask a few quick questions. Are you a current client? What's your name?
+[CLIENT]: Yes, Renee Caldwell.
+[RECEPTIONIST]: Got it Renee. I see you usually see Sasha and your color is a level six warm brown, last done about eight weeks ago.
+[CLIENT]: That sounds right.
+[RECEPTIONIST]: Okay, so a root touch-up with Sasha plus a gloss to refresh the mids and ends, that's about an hour and fifteen minutes. Did you want a haircut too?
+[CLIENT]: Maybe a trim, just to clean up the ends. Nothing dramatic.
+[RECEPTIONIST]: Adding a trim brings it to about an hour forty. Pricing, root touch-up is one ten, gloss is forty-five as an add-on, and a trim is forty. So two hundred minus the loyalty discount, you're a five-year client so ten percent off, brings it to one eighty. Plus tax.
+[CLIENT]: Five years. Wow, has it really been that long?
+[RECEPTIONIST]: According to our records, yes. Your first appointment was on March of twenty twenty-one.
+[CLIENT]: Time flies.
+[RECEPTIONIST]: Okay, Sasha has openings this week, let me see. Tuesday at four, Wednesday at noon, Thursday at six in the evening.
+[CLIENT]: Thursday evening is great, my schedule's been so busy.
+[RECEPTIONIST]: Booked. One thing, with the gloss we're using Redken Shades EQ. For your warm brown we'd be looking at probably a six C plus a little six B to add a bit of dimension. Sasha will confirm in the chair.
+[CLIENT]: Whatever she thinks is best. She always does a great job.
+[RECEPTIONIST]: I'll let her know you're coming. Also, your last appointment you mentioned wanting to try a new shampoo because your usual one was running out. We just got Pureology Hydrate in stock if you want to grab one Thursday.
+[CLIENT]: Yes please, can you set one aside?
+[RECEPTIONIST]: Done. Thirty-four for the shampoo. See you Thursday at six.
+[CLIENT]: Perfect, thanks for everything.

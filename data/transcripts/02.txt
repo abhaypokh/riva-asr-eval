@@ -1,0 +1,22 @@
+[CLIENT]: Hi, I'm calling because my sister is getting married next month and I need a haircut and a blowout for the wedding day.
+[RECEPTIONIST]: Congratulations to your sister. What's the wedding date?
+[CLIENT]: June fourteenth. The ceremony is at three in the afternoon.
+[RECEPTIONIST]: Okay so you'd want your blowout earlier that morning. We usually recommend coming in around eight or nine for an afternoon event. Are you also doing an updo or just the blowout?
+[CLIENT]: I think just a blowout. I have long hair and I want it down with some loose waves.
+[RECEPTIONIST]: Perfect. So we're looking at a haircut sometime in the next couple of weeks, plus a blowout the morning of the fourteenth.
+[CLIENT]: Right. And actually, can I also get a trim and maybe some highlights before the wedding?
+[RECEPTIONIST]: Of course. For highlights I'd suggest doing them a week and a half before so the color settles. Then a trim and gloss a couple days before to refresh everything.
+[CLIENT]: Okay. What kind of highlights would you recommend? My natural color is dirty blonde.
+[RECEPTIONIST]: With dirty blonde, partial babylights tend to photograph beautifully. They give a brighter look around the face without being heavy. We use Wella Koleston for those.
+[CLIENT]: That sounds great. Let's do that.
+[RECEPTIONIST]: For the wedding morning blowout, are you bringing bridesmaids too?
+[CLIENT]: Just me and the bride. She wants an updo.
+[RECEPTIONIST]: We can absolutely book her in. We have a stylist who specializes in bridal updos, her name is Maria. She'd be perfect.
+[CLIENT]: Oh that would be amazing. Can we both come in together that morning?
+[RECEPTIONIST]: Yes, I'll put you both in at eight. Maria will do your sister's updo and Jessica can do your blowout. Plan about an hour and a half for each.
+[CLIENT]: Perfect. And what about a trial run for my sister's updo?
+[RECEPTIONIST]: Highly recommend it. Most brides do a trial about two weeks before. Maria charges sixty for the trial.
+[CLIENT]: Okay let me check with my sister and call back tomorrow to book the trial.
+[RECEPTIONIST]: Sounds good. I'll go ahead and lock in the wedding day appointments and your highlights and trim. What's your name?
+[CLIENT]: Emily Chen. And my sister is Anna Chen.
+[RECEPTIONIST]: All set, Emily. Have a wonderful day.

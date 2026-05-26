@@ -1,0 +1,4 @@
+[CLIENT]: Hi.
+[RECEPTIONIST]: Hello!
+[CLIENT]: How are you?
+[RECEPTIONIST]: I am doing well.

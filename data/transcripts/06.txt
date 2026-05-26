@@ -1,0 +1,20 @@
+[CLIENT]: Hi, I'm calling to ask about keratin treatments. My hair is really frizzy and I've been thinking about getting one.
+[RECEPTIONIST]: Sure, we do a few different smoothing treatments. The main one is a traditional keratin treatment, and we also offer a Brazilian blowout. They have some differences if you want me to explain.
+[CLIENT]: Yes please. I keep hearing about both but I don't know which is which.
+[RECEPTIONIST]: Okay so a traditional keratin treatment uses formaldehyde-based product, takes about two and a half hours, and you can't wash your hair for seventy-two hours after. It lasts three to five months and leaves the hair very straight and sleek.
+[CLIENT]: Okay.
+[RECEPTIONIST]: A Brazilian blowout uses a different formula, takes about ninety minutes, and you can wash your hair the same day. It lasts maybe ten to twelve weeks and it preserves more of your natural texture, just minus the frizz.
+[CLIENT]: What's my hair like, I have curly hair, but I want it to still be a little wavy not totally flat. I just want the frizz gone.
+[RECEPTIONIST]: Then I would absolutely recommend the Brazilian blowout, not the traditional keratin. Brazilian preserves curl pattern much better, and if you want some wave it'll keep that.
+[CLIENT]: Perfect. How much is it?
+[RECEPTIONIST]: For your length, just below the shoulders, it would be two seventy-five.
+[CLIENT]: That's about what I expected. Anything else I should know?
+[RECEPTIONIST]: A couple of things. Don't wash your hair the day of the appointment, come in with it dirty actually. And after the treatment, switch to a sulfate-free shampoo, otherwise it'll wash out faster. We carry Pureology and Davines at the salon, both of which are sulfate-free.
+[CLIENT]: Okay I might need new shampoo then. Do I need to avoid swimming or anything?
+[RECEPTIONIST]: Chlorine and salt water will strip the treatment quickly, so if you swim a lot, rinse hair with fresh water first and use a leave-in conditioner.
+[CLIENT]: Good to know. When can I book?
+[RECEPTIONIST]: Diana does our smoothing treatments. She has next Wednesday at eleven, Friday at three, or Sunday at one.
+[CLIENT]: Wednesday at eleven, please.
+[RECEPTIONIST]: Name and phone number?
+[CLIENT]: Tasha Williams. Five five five, eight six two, nine four four zero.
+[RECEPTIONIST]: All set, Tasha. See you Wednesday.

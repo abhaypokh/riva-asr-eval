@@ -1,0 +1,18 @@
+[CLIENT]: Hi, I need help. I tried to dye my hair at home with a box color and it turned out terrible. I need a color correction.
+[RECEPTIONIST]: I'm sorry to hear that, but we definitely do color corrections. Can you tell me a little about what happened? What color did you use and what color did you start with?
+[CLIENT]: I was a natural medium brown and I tried to go platinum blonde. So now I have like orange and yellow patches everywhere. The roots are still dark and the ends are really damaged.
+[RECEPTIONIST]: Okay, that's a common situation, please don't panic. The good news is our color correction specialist, Diana, has fixed exactly this many times. The challenging part is it almost always takes more than one session.
+[CLIENT]: Oh no, really?
+[RECEPTIONIST]: Going from natural brown to true platinum on already lifted, uneven hair is a multi-step process. Diana would probably start with a consultation, then in the first session do some toner work to even out the brassiness, plus a heavy Olaplex and K18 treatment to repair the damage. The second session, usually four to six weeks later, would address lifting any remaining patches.
+[CLIENT]: How much does that cost?
+[RECEPTIONIST]: Diana's consultation is free, and she'll quote you in person because every color correction is different. But for budgeting, color corrections in our salon typically run between four hundred and nine hundred dollars total.
+[CLIENT]: That's expensive but I need this fixed. When can she see me for the consult?
+[RECEPTIONIST]: She has openings tomorrow at eleven, Friday at two, or next Monday at ten.
+[CLIENT]: Tomorrow at eleven, please.
+[RECEPTIONIST]: Done. One thing Diana always recommends, between now and tomorrow, don't use any purple shampoo or try to tone it yourself, and avoid heat styling. Just keep it conditioned. Do you have a deep conditioner at home?
+[CLIENT]: I have Olaplex Number Three.
+[RECEPTIONIST]: Perfect, that's exactly what she'd suggest. Use it tonight and tomorrow morning, leave it on for at least thirty minutes.
+[CLIENT]: Okay, I will. Thank you so much for being kind about this. I feel really embarrassed.
+[RECEPTIONIST]: Please don't, we see it all the time. Diana will take great care of you. Can I get your name and number?
+[CLIENT]: Megan Hollis. Five five five, four nine two, one one zero six.
+[RECEPTIONIST]: Got it, Megan. See you tomorrow at eleven.

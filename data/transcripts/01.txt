@@ -1,0 +1,20 @@
+[RECEPTIONIST]: Good morning, thanks for calling. How can I help you today?
+[CLIENT]: Hi, yes, I'm hoping to book a balayage. I've never had one done at your salon before. I usually do single process color but I want to try something lower maintenance this time.
+[RECEPTIONIST]: Of course, we do a lot of balayage. Are you looking for a full balayage or more of a partial, just around the face?
+[CLIENT]: I think a full. My hair is pretty long, like past my shoulder blades, and it's natural dark brown. I'm hoping to get some lighter pieces through it.
+[RECEPTIONIST]: Got it. With dark brown going lighter, our colorists usually recommend pairing the balayage with a toner and a gloss at the end to keep the tone soft. And because you're going several levels lighter, an Olaplex add-on is something they'll probably suggest.
+[CLIENT]: Yeah, I've heard about Olaplex. Is that extra?
+[RECEPTIONIST]: It is, it's an add-on. About thirty-five dollars on top of the color service. Most of our clients going lighter do add it because it really helps with the integrity of the hair.
+[CLIENT]: Okay, I'll plan on that. How long does the appointment take?
+[RECEPTIONIST]: A full balayage with toner and a blowout at the end is usually about three and a half hours, sometimes four depending on how the lift takes. We'd block out four to be safe.
+[CLIENT]: Wow, okay. That's a commitment.
+[RECEPTIONIST]: It is, but you'd only need to come back for a root touch-up or another gloss every few months, which is the nice part. Do you have a stylist in mind?
+[CLIENT]: No, whoever is good with going from dark to lighter.
+[RECEPTIONIST]: I'd recommend Jessica. She's our balayage specialist and she does a really beautiful lived-in look. She uses Redken Shades EQ for her glosses which gives a very natural finish.
+[CLIENT]: That sounds great. When does she have availability?
+[RECEPTIONIST]: She has a Saturday opening in two weeks at ten in the morning. Or if you can do a weekday, she has next Thursday at noon.
+[CLIENT]: Saturday works better for me.
+[RECEPTIONIST]: Perfect. Can I get your name and a phone number?
+[CLIENT]: Sarah Mitchell, five five five, two one four, eight seven nine zero.
+[RECEPTIONIST]: Great, you're booked, Sarah. We'll send you a text reminder two days before. And just a heads up, we ask new color clients to come in with clean, dry hair, no product. See you Saturday.
+[CLIENT]: Thank you so much.

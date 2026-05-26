@@ -1,0 +1,24 @@
+[CLIENT]: Hi, my daughter has prom in three weeks and I'm trying to book her an updo and possibly a makeup appointment too.
+[RECEPTIONIST]: How fun. Yes, we do prom updos and makeup. What kind of look is she going for?
+[CLIENT]: She wants something romantic, like loose curls pinned up with some pieces falling around her face. Not too tight.
+[RECEPTIONIST]: Like a soft tousled updo. That's a popular look. Our stylist Maria specializes in that style. She'll usually curl the hair with a one-inch barrel iron, set it, then pin it up while keeping it soft.
+[CLIENT]: Does she need to have her hair washed that morning or the night before?
+[RECEPTIONIST]: Night before is much better. Day-old hair holds curl and pins much better than freshly washed. No conditioner the night before, or just a tiny bit on the ends.
+[CLIENT]: Good to know. What about makeup?
+[RECEPTIONIST]: Our makeup artist is Jenna. She can do a glam look or a more natural look depending on your daughter's preference.
+[CLIENT]: She'll want a glam look. Smoky eye, definitely.
+[RECEPTIONIST]: Jenna does beautiful smoky eyes. The full glam package is one ten and includes lashes.
+[CLIENT]: Perfect. And the updo?
+[RECEPTIONIST]: Prom updo is ninety-five.
+[RECEPTIONIST]: When is prom?
+[CLIENT]: May twenty-third, this Saturday three weeks from now. The dance is at seven.
+[RECEPTIONIST]: For a seven o'clock event we'd recommend appointments around two or three in the afternoon. Lots of girls come together that day so it gets booked up fast.
+[CLIENT]: Two would be ideal.
+[RECEPTIONIST]: Let me check. Maria has two thirty available and Jenna can do two o'clock for makeup. Would your daughter want makeup first or hair first?
+[CLIENT]: I think hair first is easier? So we don't smudge anything.
+[RECEPTIONIST]: Actually for updos, makeup first works better because then we can pin the hair without makeup getting on the brushes. We do it that way most of the time.
+[CLIENT]: Okay let's do makeup at two and hair at two thirty.
+[RECEPTIONIST]: Perfect. Should be done around four, plenty of time before the dance.
+[CLIENT]: Wonderful. Her name is Madison Foster. My phone is five five five, four nine zero, eight eight one one.
+[RECEPTIONIST]: All booked. We'll send a reminder the week of.
+[CLIENT]: Thank you so much.

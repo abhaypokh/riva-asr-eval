@@ -1,0 +1,23 @@
+[CLIENT]: Hi, I want to know more about brow lamination. My friend got it done and her brows look amazing.
+[RECEPTIONIST]: It's a great service. Brow lamination is essentially a perm for your brow hairs. It restructures them so they all lay in the same upward direction, giving you that fluffy brushed-up look.
+[CLIENT]: That's exactly what I want. I have brows that grow in different directions.
+[RECEPTIONIST]: That's the perfect use case for it. Lamination is especially good for people with unruly or downward-growing brows.
+[CLIENT]: How long does the result last?
+[RECEPTIONIST]: About six to eight weeks, give or take based on your growth cycle.
+[CLIENT]: And the appointment itself?
+[RECEPTIONIST]: About forty-five minutes. We do the lamination first, then a brow tint to add color, then a wax or thread to clean up the shape. The combo is what gives you the dramatic before and after photos you see online.
+[CLIENT]: Can I get all three?
+[RECEPTIONIST]: Absolutely. The package is one hundred and ten for lamination, tint, and shaping.
+[CLIENT]: Sounds good.
+[RECEPTIONIST]: A few things to know. Don't get them wet for twenty-four hours. No makeup on the brows for forty-eight hours. And you'll want to use a nourishing brow serum every night to keep the hairs healthy. We sell one called RevitaBrow, it's sixty-eight dollars and lasts about four months.
+[CLIENT]: I'll grab one. Anything else?
+[RECEPTIONIST]: One important thing. If you have any active eczema, dermatitis, or recent retinol use on the brow area, we can't do the lamination. Are you using any tretinoin or retinol in your skincare?
+[CLIENT]: I use a retinol cream at night but not specifically on my brows.
+[RECEPTIONIST]: As long as it's not applied to the brow area you should be fine. Just don't apply retinol for forty-eight hours before the appointment, even on the surrounding skin.
+[CLIENT]: Got it.
+[RECEPTIONIST]: Our brow specialist is Naomi. She has Saturday at eleven thirty and Monday at one.
+[CLIENT]: Saturday at eleven thirty.
+[RECEPTIONIST]: Name and phone number?
+[CLIENT]: Casey Tran. Five five five, seven seven nine, three three two two.
+[RECEPTIONIST]: All booked, Casey. We'll send a text reminder.
+[CLIENT]: Thank you.

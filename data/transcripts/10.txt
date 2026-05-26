@@ -1,0 +1,21 @@
+[RECEPTIONIST]: Thanks for calling, what can I do for you?
+[CLIENT]: Hi. I have a one o'clock appointment today for a haircut and highlights, and I need to reschedule. Something came up at work.
+[RECEPTIONIST]: No problem at all. Let me pull up your account, what's your name?
+[CLIENT]: Andrew Kim.
+[RECEPTIONIST]: Got it, Andrew. I see your appointment with Jessica at one. I'm canceling that now. When would you like to reschedule to?
+[CLIENT]: Do you have any evenings this week? I get off work at five thirty.
+[RECEPTIONIST]: Jessica's last appointment is at five most days, but on Thursdays she stays until seven. She has a five thirty open this Thursday.
+[CLIENT]: Thursday at five thirty is perfect.
+[RECEPTIONIST]: Great. Just so you're aware, our late cancellation policy is twenty-four hours. Today is within that window, so technically there's a fifty percent fee on the booked services. But I see you've been a client for several years and you've never canceled before, so I can waive it this time.
+[CLIENT]: Oh wow, thank you, I really appreciate that.
+[RECEPTIONIST]: Of course, you've been loyal. Just keep in mind going forward to give us a day's notice when possible. The fee normally is automatic.
+[CLIENT]: Understood. I'll be more careful.
+[RECEPTIONIST]: One more thing. Jessica has been wanting to suggest a gloss with your highlights this time. Your last set was nine weeks ago and she thinks a gloss would refresh the tone without doing a full color. It adds fifteen minutes and forty-five dollars. Want me to add it?
+[CLIENT]: Yeah let's do it. Trust the experts.
+[RECEPTIONIST]: Great, added. So Thursday at five thirty for a haircut, partial highlights, and a Redken Shades EQ gloss with Jessica.
+[CLIENT]: Perfect. And actually while I have you, do you guys sell that Olaplex Number Three? My wife wanted me to grab one.
+[RECEPTIONIST]: We do, it's twenty-eight dollars. I can set one aside for you to pick up Thursday.
+[CLIENT]: Yes please.
+[RECEPTIONIST]: Done. We'll have it waiting at the desk.
+[CLIENT]: Awesome. Thanks for being flexible today.
+[RECEPTIONIST]: Of course, Andrew. See you Thursday.
