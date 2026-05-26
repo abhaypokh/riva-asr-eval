@@ -1,0 +1,19 @@
+[RECEPTIONIST]: Thanks for calling, how can I help?
+[CLIENT]: Hi, I want to book a microblading consultation. I've been thinking about it for years and I'm finally ready.
+[RECEPTIONIST]: Wonderful. The consultation is free and takes about thirty minutes. We map out your brow shape, talk through pigment matching, and explain the whole process so you know what to expect.
+[CLIENT]: How long does the actual microblading take?
+[RECEPTIONIST]: The initial session is about two and a half hours. Then a touch-up six to eight weeks later, which is included in the price, takes about an hour.
+[CLIENT]: And the cost?
+[RECEPTIONIST]: Six-fifty total, which covers the initial session and the touch-up. Annual color boosts after that are two-fifty.
+[CLIENT]: Is there anything I should know before the consultation?
+[RECEPTIONIST]: Yes, a few things. No retinoids on the brow area for two weeks before. No alcohol or caffeine the day of, because they thin your blood. And if you're pregnant or nursing, we have to postpone.
+[CLIENT]: Got it, none of those apply.
+[RECEPTIONIST]: Also, are you prone to keloids or have any skin conditions on your face?
+[CLIENT]: No.
+[RECEPTIONIST]: Good. We do require a patch test twenty-four hours before the actual procedure, just for the pigment. That's done at the end of the consultation, takes two minutes.
+[CLIENT]: Okay. When can I come in for the consultation?
+[RECEPTIONIST]: Our microblading artist is Yuki. She has Wednesdays and Fridays open this month.
+[CLIENT]: This Wednesday at four?
+[RECEPTIONIST]: Four works. Let me put you in. Name and number?
+[CLIENT]: Aisha Brown. Five five five, six four four, two three eight one.
+[RECEPTIONIST]: Booked. Yuki will email you the prep guide and a few photos of recent work so you have a sense of her style.

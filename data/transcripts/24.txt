@@ -1,0 +1,17 @@
+[CLIENT]: Hi, I want to book a gel manicure and a pedicure. Is there a deal if I do both together?
+[RECEPTIONIST]: There is. Gel manicure and a regular pedicure together is seventy-five, normally that would be eighty-five separately. If you want a gel pedicure as well, the package is ninety-five.
+[CLIENT]: Let's do the gel manicure and the gel pedicure.
+[RECEPTIONIST]: Perfect. We use OPI and Gelish for gel. Do you have a color preference or do you want to pick when you come in?
+[CLIENT]: I'll pick when I come in. I was thinking something for fall, like a deep red or a warm brown.
+[RECEPTIONIST]: We just got the new OPI fall collection in, lots of burgundies and warm browns. You'll have plenty to choose from.
+[CLIENT]: Do you also do dip powder? My friend has been raving about it.
+[RECEPTIONIST]: We do. Dip powder is great if you want a longer wear time, four to five weeks usually, compared to two to three on gel. It is also a little gentler on the natural nail than acrylics.
+[CLIENT]: I'll stick with gel this time but maybe try dip next time.
+[RECEPTIONIST]: Sounds good. When would you like to come in?
+[CLIENT]: Any chance for Saturday morning?
+[RECEPTIONIST]: This Saturday at nine thirty with Linh, or eleven with Hannah.
+[CLIENT]: Nine thirty.
+[RECEPTIONIST]: Great. Name and phone number?
+[CLIENT]: Rachel Goldberg. Five five five, eight seven seven, four six one nine.
+[RECEPTIONIST]: Booked, Rachel. Wear open-toe shoes or bring flip flops for the pedicure.
+[CLIENT]: Will do, thank you.

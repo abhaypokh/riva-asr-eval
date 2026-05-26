@@ -18,4 +18,4 @@ def decode_parakeet(audio_files, output_dir):
 
 
 if __name__ == "__main__":
-    print(decode_parakeet(["audio/sample_transcript/final.wav"], "out/parakeet"))
+    print(decode_parakeet(["audio/sample_transcript/final.wav"], "out/sample_parakeet.txt"))

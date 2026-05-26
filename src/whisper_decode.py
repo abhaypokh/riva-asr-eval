@@ -3,7 +3,7 @@ import os
 import whisper
 
 print("Loading Whisper model...")
-model = whisper.load_model("base")
+model = whisper.load_model("large-v3")
 print("Model loaded successfully.")
 
 
@@ -21,4 +21,4 @@ def decode_whisper(audio_files, output_dir):
 
 
 if __name__ == "__main__":
-    print(decode_whisper(["audio/sample_transcript/final.wav"], "out/whisper"))
+    print(decode_whisper(["audio/sample_transcript/final.wav"], "out/sample_whisper.txt"))

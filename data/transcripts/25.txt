@@ -1,0 +1,20 @@
+[CLIENT]: Hi, I'm getting married in October and I need to book a bridal trial. Hair and makeup.
+[RECEPTIONIST]: Congratulations. Have you set a wedding date already?
+[CLIENT]: October eighteenth. The ceremony is at four in the afternoon, indoor venue.
+[RECEPTIONIST]: Okay. For a trial, we recommend doing it about six to ten weeks before the wedding, so somewhere in August or early September. Have you thought about the style you want?
+[CLIENT]: I think a low updo with some pieces around the face. Soft and romantic. And for makeup, kind of neutral with a slightly bolder lip.
+[RECEPTIONIST]: That's a really popular direction right now. Our bridal lead is Sophia for hair and Camille for makeup. They work together on most of our weddings.
+[CLIENT]: Do they come to the venue on the wedding day or do I come here?
+[RECEPTIONIST]: Both options. On-site is six hundred for hair and four hundred for makeup, plus a travel fee depending on distance. In-salon on the day is four-fifty hair and three hundred makeup.
+[CLIENT]: I'd want them on-site. The venue is in town, about fifteen minutes from here.
+[RECEPTIONIST]: Then there's no travel fee. The trial itself, hair and makeup together, is two-fifty, and that's credited toward the wedding day if you book both with us.
+[CLIENT]: That's great. Are bridesmaids extra?
+[RECEPTIONIST]: Yes, ninety per bridesmaid for hair and seventy-five for makeup. We usually need to know the count two weeks before.
+[CLIENT]: I'll have four bridesmaids and my mom for both.
+[RECEPTIONIST]: Got it. When would you like to book the trial?
+[CLIENT]: How about the second Saturday in September?
+[RECEPTIONIST]: September twelfth. Eleven a.m. would work for both Sophia and Camille.
+[CLIENT]: Perfect.
+[RECEPTIONIST]: Name and number please?
+[CLIENT]: Emma Russo. Five five five, two nine four, six six one one.
+[RECEPTIONIST]: Booked, Emma. I'll send you an inspiration questionnaire by email so they can prep.

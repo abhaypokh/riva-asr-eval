@@ -1,0 +1,19 @@
+[RECEPTIONIST]: Good afternoon, thanks for calling.
+[CLIENT]: Hi, I'm looking to book a men's haircut and a beard trim. Do you guys do both?
+[RECEPTIONIST]: We do. We have two stylists who specialize in men's cuts and beard work, Tony and Dre. Both are great with fades, scissor cuts, and beard shaping.
+[CLIENT]: Cool. I usually get a mid skin fade with scissor work on top, and a beard line-up.
+[RECEPTIONIST]: That's right in their wheelhouse. Tony uses Andis clippers and Wahl trimmers for line-ups. Dre uses the same plus a straight razor finish if you want that, no extra charge.
+[CLIENT]: I'd actually love to try the straight razor finish, I've never had one.
+[RECEPTIONIST]: Then I'd point you to Dre. The straight razor gives a really clean edge on the neck and around the ears. We use a hot towel and a pre-shave oil before.
+[CLIENT]: That sounds great. What's the price?
+[RECEPTIONIST]: Men's haircut is forty-five. Beard trim alone is twenty. Together, with the razor finish, it's sixty.
+[CLIENT]: Reasonable. When can he see me?
+[RECEPTIONIST]: Dre has tomorrow at ten or Friday at four.
+[CLIENT]: Friday at four works.
+[RECEPTIONIST]: Got it. First time with us?
+[CLIENT]: Yeah.
+[RECEPTIONIST]: Welcome. I'll need a name and a number.
+[CLIENT]: Marcus Williams, five five five, six one seven, three three two two.
+[RECEPTIONIST]: Booked, Marcus. Quick note, Dre likes folks to come in with their beard at the length they want it to start from, so don't shape it the day before.
+[CLIENT]: Got it, thanks.
+[RECEPTIONIST]: See you Friday.

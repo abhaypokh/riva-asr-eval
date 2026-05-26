@@ -1,0 +1,17 @@
+[CLIENT]: Hi, I have a question about Olaplex and K18. My hair is really damaged from bleaching and I'm trying to figure out which one to do.
+[RECEPTIONIST]: That's a great question, we get it a lot. Both Olaplex and K18 work on damaged hair but they work differently. Olaplex Number Zero and Number Three are more of a bond-builder you do at home, repeated over time. K18 is a leave-in molecular mask that works in four minutes and rebuilds keratin chains.
+[CLIENT]: Which one would you recommend for someone whose hair is really brittle after going from black to blonde?
+[RECEPTIONIST]: For acute damage like that, in salon we'd actually combine them. We do an Olaplex Stand Alone, which is the Number One and Two treatment without color, plus a K18 mask after. The combo addresses both the bond breakage and the keratin chain damage.
+[CLIENT]: Is that a single appointment?
+[RECEPTIONIST]: Yes, one appointment, about an hour and a half including a shampoo and a blow dry at the end.
+[CLIENT]: What does it cost?
+[RECEPTIONIST]: The combo is one-eighty. If you just want the Olaplex Stand Alone by itself it's one-twenty, K18 alone is eighty.
+[CLIENT]: Let's do the combo.
+[RECEPTIONIST]: Great. Any of our colorists can do it but I'd put you with Maria, she has the most experience with damaged blonde hair.
+[CLIENT]: When can she see me?
+[RECEPTIONIST]: This Friday at noon or Monday at four.
+[CLIENT]: Friday at noon.
+[RECEPTIONIST]: Name and number?
+[CLIENT]: Hannah Park. Five five five, eight zero two, one nine nine nine.
+[RECEPTIONIST]: Booked. Maria will probably also recommend take-home Olaplex Three to keep doing it weekly. That's twenty-eight if you want to add it that day.
+[CLIENT]: Yeah, add it. Thanks.

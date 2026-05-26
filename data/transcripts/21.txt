@@ -1,0 +1,19 @@
+[RECEPTIONIST]: Good morning, how can I help you?
+[CLIENT]: Hi, I was thinking about getting a keratin treatment but I have a lot of questions. I've never had one.
+[RECEPTIONIST]: Of course, those are great questions to ask up front. Are you considering a traditional keratin treatment or a Brazilian blowout? They're slightly different.
+[CLIENT]: I didn't know there was a difference. What's the difference?
+[RECEPTIONIST]: A keratin treatment, the smoothing kind we use here, is mostly aimed at reducing frizz and cutting blow dry time, but your hair keeps a lot of its natural texture. A Brazilian blowout uses a slightly different formula and tends to give a smoother, straighter result. Both last around three to five months.
+[CLIENT]: I have curly hair, like 3A curls, and I'm not trying to lose my curl pattern. I just want my hair to be less frizzy in the summer.
+[RECEPTIONIST]: Then a regular keratin smoothing treatment is the better fit. Your curl will relax slightly the first few weeks but it comes back. We've had a lot of 3A and 3B clients keep their curls after.
+[CLIENT]: Okay good. How long does the appointment take?
+[RECEPTIONIST]: It runs about two and a half to three hours. The product sits on the hair for forty-five minutes, then we flat iron it in section by section to seal it.
+[CLIENT]: And what does it cost?
+[RECEPTIONIST]: For your hair length, it would be two-fifty. That includes the treatment and a take-home sulfate-free shampoo and conditioner from K18, which extends the result.
+[CLIENT]: Do I need to do anything special after?
+[RECEPTIONIST]: For seventy-two hours after, no ponytails, no clips, no tucking behind the ears, and no washing. After that you're back to normal, just use sulfate-free products.
+[CLIENT]: Got it. Can I book for next Friday?
+[RECEPTIONIST]: Next Friday, let me see. We have an eleven a.m. or a two p.m. with Marcus, who specializes in textured hair.
+[CLIENT]: Two p.m. works better.
+[RECEPTIONIST]: Done. Can I get your name and a phone number?
+[CLIENT]: Priya Desai, five five five, three eight one, two zero zero four.
+[RECEPTIONIST]: Booked, Priya. We'll send a confirmation and a prep checklist by text.

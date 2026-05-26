@@ -8,6 +8,7 @@ def generate_audio_from_transcript(transcript, character_voice_ids, output_dir):
     os.makedirs(output_dir, exist_ok=True)
     files = []
     index = 1
+    full_text = ""
     for line in transcript.splitlines():
         line = line.strip()
         if not line:
@@ -16,6 +17,7 @@ def generate_audio_from_transcript(transcript, character_voice_ids, output_dir):
         colon = line.index(':')
         speaker = line[:colon].strip()
         text = line[colon + 1:].strip()
+        full_text += text + " "
 
         voice_id = character_voice_ids[speaker]
         output_path = os.path.join(output_dir, f"{index}.wav")
@@ -24,6 +26,8 @@ def generate_audio_from_transcript(transcript, character_voice_ids, output_dir):
         index += 1
 
     stitch(files, os.path.join(output_dir, "final.wav"))
+
+    return full_text
 
 
 if __name__ == "__main__":

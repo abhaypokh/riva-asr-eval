@@ -1,0 +1,19 @@
+[RECEPTIONIST]: Good morning, what can I do for you?
+[CLIENT]: Hi, I want to ask about brow lamination. I've seen it a lot on TikTok and I'm curious if it's right for me.
+[RECEPTIONIST]: Sure. Brow lamination is essentially a perm for your brow hairs. It restructures them so they stay brushed up and in place. Lasts about six to eight weeks.
+[CLIENT]: Does it work if your brows are kind of sparse?
+[RECEPTIONIST]: It depends. Lamination makes the hairs you have look fuller and more uniform, but it won't fill in actual gaps. For gaps we'd suggest pairing it with a brow tint, or in some cases microblading.
+[CLIENT]: I have decent brows but a few thin spots near the tail.
+[RECEPTIONIST]: Then I'd recommend lamination plus a tint. The tint colors any fine hairs you might not see, which makes the lamination look fuller.
+[CLIENT]: What does that cost together?
+[RECEPTIONIST]: Lamination alone is sixty-five. With a tint, it's eighty.
+[CLIENT]: Do you also do threading?
+[RECEPTIONIST]: We do threading and waxing for brow shaping. Threading is fifteen, waxing is eighteen. You can add either to a lamination appointment.
+[CLIENT]: Let's do lamination, tint, and a threading shape-up.
+[RECEPTIONIST]: Ninety-five total. Are you on any retinoids or acne medication?
+[CLIENT]: No.
+[RECEPTIONIST]: Good, no patch test needed then. Our brow artist is Mei. She has tomorrow at one or Saturday at ten.
+[CLIENT]: Tomorrow at one.
+[RECEPTIONIST]: Name and number?
+[CLIENT]: Bella Hernandez. Five five five, three one three, seven seven zero four.
+[RECEPTIONIST]: Booked, Bella. Come with brows clean, no makeup if possible.

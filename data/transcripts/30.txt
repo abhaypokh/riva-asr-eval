@@ -1,0 +1,19 @@
+[RECEPTIONIST]: Hi, thanks for calling.
+[CLIENT]: Hi, I'm trying to book online through your Vagaro page but it keeps telling me there are no available appointments. I know that can't be right.
+[RECEPTIONIST]: I'm sorry about that. Vagaro sometimes glitches if you have a filter applied or if a specific stylist's schedule isn't updated. Can I help you book over the phone instead?
+[CLIENT]: Yes please.
+[RECEPTIONIST]: What service are you looking for?
+[CLIENT]: A root touch-up with a gloss, and a haircut. I usually see Jessica.
+[RECEPTIONIST]: Let me pull her schedule. Jessica is fully booked for the next two weeks but she has openings the following Monday at ten, Wednesday at two, or Saturday at noon.
+[CLIENT]: Saturday at noon.
+[RECEPTIONIST]: Let me grab that for you. Name on file?
+[CLIENT]: Megan Carter.
+[RECEPTIONIST]: I see you, Megan. Last visit was three months ago, root touch-up with a Redken Shades EQ gloss in nine N.
+[CLIENT]: Yes same thing.
+[RECEPTIONIST]: I'll put in the same formula request. The haircut, just a trim or are we doing something different?
+[CLIENT]: Just a trim, maybe two inches.
+[RECEPTIONIST]: Got it. Saturday at noon, root touch-up, gloss, and a trim. About three hours total. By the way, while I have you, do you want to update the credit card on file? The one we have on file expired last month.
+[CLIENT]: Oh good catch. I'll update it through the Vagaro app later today.
+[RECEPTIONIST]: Perfect. If the app keeps acting up, just call us and we'll take the card over the phone.
+[CLIENT]: Thanks so much.
+[RECEPTIONIST]: See you Saturday.

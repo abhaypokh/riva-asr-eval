@@ -1,0 +1,18 @@
+[CLIENT]: Hi, I want to buy a gift card for my mom. It's her sixtieth birthday next month.
+[RECEPTIONIST]: How thoughtful. We can do any dollar amount, or we have packaged experiences if you'd prefer.
+[CLIENT]: What's in the packages?
+[RECEPTIONIST]: The most popular is the Renewal package, which is a fifty-minute massage, a classic facial, and a manicure. That's two-twenty. We also have the Mother's Day package, which is a haircut, a blowout, and a brow shape, for one-thirty.
+[CLIENT]: Does she pick a date or is it just a credit?
+[RECEPTIONIST]: She picks the date when she's ready. The package is good for one year from purchase.
+[CLIENT]: What if she wants to use it toward something different than what's in the package?
+[RECEPTIONIST]: She can. The package becomes a credit equal to the price she paid, applied to any service.
+[CLIENT]: Okay. I'll do the Renewal package, but I also want to add a Moroccanoil hair oil to it as a gift. Can you bundle it?
+[RECEPTIONIST]: Definitely. The original Moroccanoil treatment in the three point four ounce is forty-six.
+[CLIENT]: Add that. So total is what, two-sixty-six?
+[RECEPTIONIST]: Two-sixty-six exactly. Do you want it shipped or do you want to pick it up?
+[CLIENT]: I'll pick it up. Can you have it ready by Friday?
+[RECEPTIONIST]: Yes. We'll have it in a gift box with the card and the oil. Name on the card?
+[CLIENT]: From Daniel and Sarah, to Mom.
+[RECEPTIONIST]: Got it. And for our records, your name and a phone number?
+[CLIENT]: Daniel Foster. Five five five, four nine eight, one one three two.
+[RECEPTIONIST]: Perfect. Ready by Friday at noon. We'll text you when it's ready.
