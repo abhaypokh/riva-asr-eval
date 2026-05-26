@@ -13,6 +13,7 @@ def generate(input_dir, output_dir, character_voice_ids):
     real_dir = os.path.join(output_dir, "real")
     parakeet_dir = os.path.join(output_dir, "parakeet")
     whisper_dir = os.path.join(output_dir, "whisper")
+    os.makedirs(real_dir, exist_ok=True)
     parakeet_times = []
     whisper_times = []
     for filename in tqdm(os.listdir(transcripts_dir), desc="Processing transcripts"):
