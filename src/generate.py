@@ -7,7 +7,7 @@ from tqdm import tqdm
 from time import time
 
 
-def generate(input_dir, output_dir, character_voice_ids):
+def generate(input_dir, output_dir, character_voice_ids, audio_filename="final.wav"):
     transcripts_dir = os.path.join(input_dir, "transcripts")
     audio_dir = os.path.join(output_dir, "audio")
     real_dir = os.path.join(output_dir, "real")
@@ -26,22 +26,23 @@ def generate(input_dir, output_dir, character_voice_ids):
             real = generate_audio_from_transcript(anonymized_transcript, character_voice_ids, audio_subdir)
             with open(os.path.join(real_dir, os.path.splitext(filename)[0] + ".txt"), "w") as f:
                 f.write(real)
+            audio_path = os.path.join(audio_subdir, audio_filename)
             start_time = time()
-            decode_parakeet([os.path.join(audio_subdir, "final.wav")], parakeet_dir)
+            decode_parakeet([audio_path], parakeet_dir)
             parakeet_time = time() - start_time
             start_time = time()
-            decode_whisper([os.path.join(audio_subdir, "final.wav")], whisper_dir)
+            decode_whisper([audio_path], whisper_dir)
             whisper_time = time() - start_time
             parakeet_times.append(parakeet_time)
             whisper_times.append(whisper_time)
 
     print(f"Average Parakeet decoding time: {sum(parakeet_times[1:]) / len(parakeet_times[1:]):.2f} seconds")
     print(f"Average Whisper decoding time: {sum(whisper_times[1:]) / len(whisper_times[1:]):.2f} seconds")
-        
-    
+
+
 if __name__ == "__main__":
     character_voice_ids = {
         "[CLIENT]": "Matthew",
         "[RECEPTIONIST]": "Joanna",
     }
-    generate("data", "out", character_voice_ids)
+    generate("data", "out", character_voice_ids, audio_filename="1.wav")
