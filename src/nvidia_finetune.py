@@ -1,5 +1,5 @@
 import nemo.collections.asr as nemo_asr
-import pytorch_lightning as pl
+import lightning.pytorch as pl
 
 
 def finetune_parakeet(train_manifest, val_manifest, output_path="out/parakeet_finetuned.nemo"):
@@ -8,14 +8,14 @@ def finetune_parakeet(train_manifest, val_manifest, output_path="out/parakeet_fi
     model.setup_training_data({
         "manifest_filepath": train_manifest,
         "sample_rate": 16000,
-        "batch_size": 8,
+        "batch_size": 4,
         "shuffle": True,
         "num_workers": 4,
     })
     model.setup_validation_data({
         "manifest_filepath": val_manifest,
         "sample_rate": 16000,
-        "batch_size": 8,
+        "batch_size": 4,
         "shuffle": False,
         "num_workers": 4,
     })
