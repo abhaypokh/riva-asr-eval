@@ -20,4 +20,4 @@ def decode_nemo(audio_files, output_dir):
 
 
 if __name__ == "__main__":
-    print(decode_nemo(["out/audio/29/final.wav"], "out/sample_nemo.txt"))
+    print(decode_nemo(["out/audio/29/final.wav"], "out/sample_nemo"))
