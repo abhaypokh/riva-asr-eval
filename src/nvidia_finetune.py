@@ -8,14 +8,14 @@ def finetune_parakeet(train_manifest, val_manifest, output_path="out/parakeet_fi
     model.setup_training_data({
         "manifest_filepath": train_manifest,
         "sample_rate": 16000,
-        "batch_size": 4,
+        "batch_size": 1,
         "shuffle": True,
         "num_workers": 4,
     })
     model.setup_validation_data({
         "manifest_filepath": val_manifest,
         "sample_rate": 16000,
-        "batch_size": 4,
+        "batch_size": 1,
         "shuffle": False,
         "num_workers": 4,
     })
@@ -26,7 +26,7 @@ def finetune_parakeet(train_manifest, val_manifest, output_path="out/parakeet_fi
         "sched": {"name": "CosineAnnealing", "warmup_steps": 500}
     })
 
-    trainer = pl.Trainer(max_epochs=10, accelerator="gpu", devices=1,
+    trainer = pl.Trainer(max_epochs=5, accelerator="gpu", devices=1,
                          precision="bf16-mixed", accumulate_grad_batches=4)
     trainer.fit(model)
     model.save_to(output_path)

@@ -14,28 +14,27 @@ def evaluate_transcriptions(reference_file, predicted_file):
     return error_rate
 
 
-if __name__ == "__main__":
+def run_evaluation():
     keywords = get_keywords("data/keywords.txt")
 
-    parakeet_wers = []
-    whisper_wers = []
-    parakeet_keyword_errors = []
-    whisper_keyword_errors = []
+    models = ["parakeet", "canary", "whisper", "parakeet_finetuned"]
 
-    for filename in os.listdir("out/real"):
+    wers = {model: [] for model in models}
+    keyword_errors = {model: [] for model in models}
+
+    for filename in sorted(os.listdir("out/real")):
         if filename.endswith(".txt"):
             real_file = os.path.join("out/real", filename)
-            parakeet_file = os.path.join("out/parakeet", filename)
-            whisper_file = os.path.join("out/whisper", filename)
-            parakeet_wer = evaluate_transcriptions(real_file, parakeet_file)
-            whisper_wer = evaluate_transcriptions(real_file, whisper_file)
-            parakeet_wers.append(parakeet_wer)
-            whisper_wers.append(whisper_wer)
-            parakeet_keyword_errors.append(get_error_rate(real_file, parakeet_file, keywords))
-            whisper_keyword_errors.append(get_error_rate(real_file, whisper_file, keywords))
+            for model in models:
+                predicted_file = os.path.join(f"out/{model}", filename)
+                wers[model].append(evaluate_transcriptions(real_file, predicted_file))
+                keyword_errors[model].append(get_error_rate(real_file, predicted_file, keywords))
 
-    print(f"Average Parakeet WER: {sum(parakeet_wers) / len(parakeet_wers):.2%}")
-    print(f"Average Whisper WER: {sum(whisper_wers) / len(whisper_wers):.2%}")
-    print(f"Average Parakeet keyword error rate: {sum(parakeet_keyword_errors) / len(parakeet_keyword_errors):.2%}")
-    print(f"Average Whisper keyword error rate: {sum(whisper_keyword_errors) / len(whisper_keyword_errors):.2%}")
-            
+    for model in models:
+        print(f"Average {model.capitalize()} WER: {sum(wers[model]) / len(wers[model]):.2%}")
+    for model in models:
+        print(f"Average {model.capitalize()} keyword error rate: {sum(keyword_errors[model]) / len(keyword_errors[model]):.2%}")
+
+
+if __name__ == "__main__":
+    run_evaluation()

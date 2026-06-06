@@ -21,4 +21,4 @@ def decode_whisper(audio_files, output_dir):
 
 
 if __name__ == "__main__":
-    print(decode_whisper(["audio/sample_transcript/final.wav"], "out/sample_whisper.txt"))
+    print(decode_whisper(["data/sample_transcript/final.wav"], "out/sample_whisper.txt"))
